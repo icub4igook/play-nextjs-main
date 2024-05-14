@@ -31,7 +31,7 @@ This Next.js SaaS Boilerplate and Starter Kit is **styled using Tailwind CSS**, 
 Play Next.js SaaS boilerplate, you can enjoy a professional-looking website that offers seamless operation, all while significantly reducing your web development time and effort.
 ___
 
-### 🚀 Deploy Now
+### 🚀 Deploy Now....
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FNextJSTemplates%2Fplay-nextjs)
 
